@@ -1,0 +1,52 @@
+*{
+
+margin: 0;
+padding: 0;
+
+
+
+
+}
+header{
+
+text-align: center;
+ margin: 0 auto; 
+}
+.contenedor{
+
+    text-align: center;
+     margin: 0 auto; 
+     max-width: 500px;
+     background-color: green;
+}
+
+.img1{
+    width: 80px;
+    height: 80px;
+    padding-left: 10%;
+
+    
+
+
+
+}
+.img2{
+  width: 200px;
+    height: 200px;
+    padding-top: 2%;
+
+
+}
+body{
+background-color: rgb(255, 125, 4);
+color:aqua;
+}
+
+input,select,textarea{
+
+    width: 100%;
+
+
+
+
+}
